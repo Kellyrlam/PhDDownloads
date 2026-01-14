@@ -1,6 +1,15 @@
-## Licence
+## License
 
-This work is licensed under the Creative Commons Attribution–NonCommercial 4.0 International Licence (CC BY-NC 4.0).
+All downloadable content in this repository is licensed under the **Creative Commons Attribution–NonCommercial 4.0 International License (CC BY-NC 4.0)**.
 
-You are free to use and adapt this template for your own PhD.
-Please do not repost or sell it as your own work.
+You are free to:
+- Use this template for your own PhD work
+- Adapt or modify it for your own purposes
+
+You **must give credit** to the original author (link to this repository is sufficient).  
+
+**Do not**:
+- Claim this work as your own
+- Sell or redistribute it commercially
+
+For full license details, see: https://creativecommons.org/licenses/by-nc/4.0/
