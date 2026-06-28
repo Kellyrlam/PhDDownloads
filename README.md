@@ -3,8 +3,8 @@
 All downloadable content in this repository is licensed under the **Creative Commons Attribution–NonCommercial 4.0 International License (CC BY-NC 4.0)**.
 
 You are free to:
-- Use this template for your own PhD work
-- Adapt or modify it for your own purposes
+- Use this template for your own PhD/Degree work
+- Adapt, customise, or modify it for your own purposes
 
 You **must give credit** to the original author (link to this repository is sufficient).  
 
