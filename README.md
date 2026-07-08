@@ -1,6 +1,6 @@
 ## About 
 
-I believe access to higher educational resources should not be behind a paywall when we already pay for university. Knowledge is to be acquired and shared and not gatekept. These templates and guides are made by me, in my own time and are free to download, adapt, and use throughout your academic journey. Whether you're writing your first literature review or applying for a MSc or PhD, I hope they make the process a little easier. **PLEASE SEE LICENSE BELOW. **
+I believe access to higher educational resources should not be behind a paywall. Knowledge is to be acquired and shared and not gatekept. The more we learn, I believe the more we should share with others who may not have the same access to educational resources. These templates and guides are made by me, in my own time and are free to download, adapt, and use throughout your academic journey. Whether you're writing your first literature review or applying for a MSc or PhD, I hope they make the process a little easier. **PLEASE SEE LICENSE BELOW. **
 
 
 
